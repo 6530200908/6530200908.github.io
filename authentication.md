@@ -1,5 +1,5 @@
 # Intellectual property
-  - *[CSIPP](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
+  - [CSIPP](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
     - ChatGPT ให้ความหมายว่า "สินทรัพย์ไม่มีตัวตน (โดยเฉพาะรวมถึงซอฟต์แวร์และข้อมูล)"
     - Gemini ให้ความหมายว่า "สินทรัพย์ทางปัญญา (โดยเฉพาะอย่างยิ่งรวมถึงซอฟต์แวร์และข้อมูล)"
   - [Gartne](https://www.gartner.com/en/glossary/all-terms)
