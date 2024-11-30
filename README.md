@@ -4,6 +4,7 @@
   -  Nickname:Aom
   -  NisitCode: 6530200908
   -  E-mail: amarin.y@ku.th
-- My Picture:
+- My Picture
+  ![alt text](https://drive.google.com/file/d/1AXV-3bMnvoQlockgNfZ4ulR8LyAqbRRa/view?usp=sharing)
   
-*[authentication](https://6530200908.github.io/authentication)*
+*[Intellectual property](https://6530200908.github.io/authentication)*
