@@ -4,6 +4,7 @@
   -  Nickname:Aom
   -  NisitCode: 6530200908
   -  E-mail: amarin.y@ku.th
-- *[Intellectual property](https://6530200908.github.io/intellectual_property)*
 - My Picture
   ![alt text](picture1.jpg)
+- *[Intellectual property](https://6530200908.github.io/intellectual_property)*
+
