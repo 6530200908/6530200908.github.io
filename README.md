@@ -5,6 +5,5 @@
   -  NisitCode: 6530200908
   -  E-mail: amarin.y@ku.th
 - My Picture
-  ![alt text](IMG20241130140259.jpg)
-  
+  ![alt text](pic1.jpg)
 *[Intellectual property](https://6530200908.github.io/authentication)*
