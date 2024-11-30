@@ -4,7 +4,7 @@
       
     - ChatGPT ให้ความหมายว่า "สินทรัพย์ไม่มีตัวตน (โดยเฉพาะรวมถึงซอฟต์แวร์และข้อมูล)"
     - Gemini ให้ความหมายว่า "สินทรัพย์ทางปัญญา (โดยเฉพาะอย่างยิ่งรวมถึงซอฟต์แวร์และข้อมูล)"
-  - [Gartner]([https://www.gartner.com/en/glossary/all-terms](https://www.gartner.com/en/information-technology/glossary/intellectual-property)
+  - [Gartner](https://www.gartner.com/en/information-technology/glossary/intellectual-property)
     - ความหมาย: Intellectual property traditionally includes assets that are protected through regulatory methods such as patents, copyrights and regulatory licenses; however, this protection is being expanded to include software and business processes when these can be demonstrated to be original, novel and non-obvious. Customer intelligence and business intelligence may be considered intellectual “property” by its owner, depending on its value to enterprise competitiveness and its integration into business processes.
 
 
