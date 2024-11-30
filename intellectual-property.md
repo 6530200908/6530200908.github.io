@@ -41,5 +41,4 @@
 
 ## Buddy
 [6530200517 นายศุภนิมิต นิลฉวี(Time)](https://6530200517.github.io/intellectual-property)
-www.isc2.org 
 
