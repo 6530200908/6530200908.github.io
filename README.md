@@ -6,5 +6,5 @@
   -  E-mail: amarin.y@ku.th
 - My Picture
   ![alt text](img/picture1.jpg)
-- *[Intellectual property](intellectual-property)*
+- *[Intellectual property](intellectual-property.md)*
 
