@@ -1,2 +1,2 @@
 #Merry Chistmas
-![alt text](img/E-card.PNG)
+![alt text](img/E-card.png)
