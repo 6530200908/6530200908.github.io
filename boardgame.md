@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ### *เพื่อนร่วมอุดมการณ์*
 
-1. [Amarin Yaowarod](https://6530200908.github.io/boardgame)
+1. [Suphanimit Nilchawee](https://6530200517.github.io/boardgame)
 
 2. [Panupong Thongchoed](https://6530200339.github.io/boardgame)
 
@@ -27,4 +27,4 @@ ________________________________________________________________________________
 4. [Punnakan Punsiri](https://qlerdev.github.io/boardgame)
 
 
-[my profile](https://6530200517.github.io/)
+[my profile](https://6530200908.github.io/)
