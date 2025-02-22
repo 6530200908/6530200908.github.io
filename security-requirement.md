@@ -11,4 +11,6 @@
 
 *EX* : ถ้าส่ง JSON ควรระบุ Content-Type: application/json; charset=UTF-8 และเนื้อหาต้องเป็น JSON จริง ไม่ใช่ HTML หรือข้อความอื่นๆ
 
-6530200339 นายภาณุพงศ์ ทองเชิด [My profile](https://6530200339.github.io/security-requirement)
+6530200339 นายภาณุพงศ์ ทองเชิด [My buddy](https://6530200339.github.io/security-requirement)
+
+6530200908 นายอัมรินทร์ เยาวโรจน์ [My profile](https://6530200908.github.io)
