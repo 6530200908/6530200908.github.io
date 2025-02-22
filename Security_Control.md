@@ -1,7 +1,7 @@
 # Security_Control
-[Back](https://6530200908.github.io)
-![alt text](img/Security_Control.jpg)
 - *กลอนลิ้นชัก*
+![alt text](img/Security_Control.jpg)
+- 
 - *สถานที่*: หอพักนิสิต ตึก3 ห้อง3107
 - *control function* : Preventive Control
 - *Type of Security Control* : Physical Control
